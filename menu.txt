@@ -1,0 +1,10 @@
+public void viewRoom(){
+        System.out.println("+-------------------------------------+------------------+");
+        System.out.println("| THIS IS OUR TYPE OF ROOM AVAILABLE  |  PRICE PER NIGHT |");
+        System.out.println("+-------------------------------------+------------------+");
+        System.out.println("| 1. STANDARD                         |  RM 150          |");
+        System.out.println("| 2. DOUBLE                           |  RM 175          |");
+        System.out.println("| 3. DOUBLE & SINGLE                  |  RM 200          |");
+        System.out.println("| 4. KING                             |  RM 230          |");
+        System.out.println("+-------------------------------------+------------------+");
+    }
